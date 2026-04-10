@@ -1,0 +1,20 @@
+- `[/]` Fix existing frontend-backend bugs
+  - `[x]` Fix Chatbot API route mismatch
+  - `[ ]` Fix Dashboard fetching hardcoded `user_id = 1`
+  - `[ ]` Fix backend LLM crashing issues (handled by previous llama-3.1 fix)
+- `[ ]` Install and configure styling libraries
+  - `[ ]` Framer Motion, clsx, tailwind-merge
+  - `[ ]` Update `tailwind.config.js` colors
+  - `[ ]` Update `index.css` global styles
+- `[ ]` Redesign Dashboard & Global Navbar
+  - `[ ]` Update `Navbar.jsx` with glassmorphism + interactivity
+  - `[ ]` Redesign `Dashboard.jsx` (meal plans cards, hover fx, tags)
+  - `[ ]` Add Recharts graphs to dashboard
+- `[ ]` Redesign Planner Inputs
+  - `[ ]` Revamp `PlannerInput.jsx` with cards/sliders
+  - `[ ]` Enhance loading state
+- `[ ]` Redesign Home / Landing Page
+  - `[ ]` Revamp `Home.jsx` with Hero animations 
+- `[ ]` Redesign Chatbot Interface
+  - `[ ]` Modern messaging UI with animations
+- `[ ]` Final Verification
